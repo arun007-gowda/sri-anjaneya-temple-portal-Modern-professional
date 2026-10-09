@@ -1,3 +1,4 @@
+<img width="1895" height="915" alt="Screenshot 2026-10-09 231803" src="https://github.com/user-attachments/assets/40c46cc6-bf36-45ba-a1b7-ab64ec75dd50" />
 # Sri Anjaneya Swamy Temple — Thappagondanahalli
 ### ಶ್ರೀ ಆಂಜನೇಯ ಸ್ವಾಮಿ ದೇವಸ್ಥಾನ — ತಪ್ಪಗೊಂಡನಹಳ್ಳಿ
 
