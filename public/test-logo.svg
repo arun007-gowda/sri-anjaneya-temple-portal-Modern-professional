@@ -1,0 +1,9 @@
+<svg viewBox="0 0 240 380" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Flagpole & Arrow -->
+  <line x1="48" y1="14" x2="48" y2="290" stroke="#FF6B00" stroke-width="4" stroke-linecap="round"/>
+  <polygon points="48,10 44,18 52,18" fill="#FF6B00"/>
+  <!-- Arrow horizontal line -->
+  <line x1="12" y1="290" x2="230" y2="290" stroke="#FF6B00" stroke-width="4" stroke-linecap="round"/>
+  <!-- Arrow head pointing left -->
+  <path d="M 10 290 L 38 276 L 30 290 L 38 304 Z" fill="#FF6B00"/>
+</svg>

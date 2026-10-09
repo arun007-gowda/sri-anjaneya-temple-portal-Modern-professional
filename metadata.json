@@ -1,0 +1,8 @@
+{
+  "name": "Remix Anjaneya Swamy Temple, Thappagondanahalli",
+  "description": "Official website for Sri Anjaneya Swamy Temple, Thappagondanahalli, Challakere Taluk, Chitradurga, Karnataka — Managed by Thappagondanahalli Gowdru Families. Heritage, village history, pooja timings, festivals, and visitor guide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
